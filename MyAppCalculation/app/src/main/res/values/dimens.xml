@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="image_size">16dp</dimen>
+    <dimen name="image_wight">66dp</dimen>
+    <dimen name="image_height">66dp</dimen>
+    <dimen name="text_view_wight">384dp</dimen>
+    <dimen name="text_view_height">58dp</dimen>
+    <dimen name="text_size_rezult">35sp</dimen>
+    <dimen name="settings_text_size">25sp</dimen>
+</resources>
